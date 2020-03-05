@@ -47,7 +47,6 @@ REFERENCES "forum" ("id");
 ---
 ## Links you might like
 
-<br /><br />
 [D3 API page](https://github.com/d3/d3/blob/master/API.md)
 [A collection of learning recourses](https://mode.com/blog/learn-d3)
 [Big list of D3.js examples](https://christopheviau.com/d3list/)
